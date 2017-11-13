@@ -1,0 +1,25 @@
+{
+  "name": "redux-weather",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/redux-weather",
+  "dependencies": {
+    "react": "16.1.0",
+    "react-dom": "16.1.0",
+    "react-scripts": "1.0.10",
+    "axios": "0.17.1",
+    "redux": "3.7.2",
+    "lodash": "4.17.4",
+    "react-redux": "5.0.6",
+    "redux-promise": "0.5.3",
+    "react-sparklines": "1.7.0",
+    "react-google-maps": "9.2.2"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
